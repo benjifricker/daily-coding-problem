@@ -10,3 +10,4 @@
 
 #### 2. Strings
 2.1 Find anagram indices - Jul 16  
+2.2 Generate palindrome pairs - Jul 17  
