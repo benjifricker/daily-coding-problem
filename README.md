@@ -15,4 +15,6 @@
 2.4 Determine smallest rotated string - Jul 19
 
 #### 3. Linked Lists
-3.1 Reverse linked list - Jul 20
+3.1 Reverse linked list - Jul 20  
+3.2 Add two linked lists that represent numbers  
+
