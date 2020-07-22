@@ -17,4 +17,4 @@
 #### 3. Linked Lists
 3.1 Reverse linked list - Jul 20  
 3.2 Add two linked lists that represent numbers  
-
+3.3 Rearrange a linked list to alternate high-low  
