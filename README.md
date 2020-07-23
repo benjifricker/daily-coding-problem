@@ -18,3 +18,4 @@
 3.1 Reverse linked list - Jul 20  
 3.2 Add two linked lists that represent numbers - Jul 21  
 3.3 Rearrange a linked list to alternate high-low - Jul 22  
+3.4 Find intersecting nodes of linked lists - Jul 23  
