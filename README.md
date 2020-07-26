@@ -23,3 +23,4 @@
 #### 4. Stacks and Queues
 4.1 Implement a max stack - Jul 24  
 4.2 Determine whether brackets are balanced - Jul 25  
+4.3 Compute maximum of k-length subarrays - Jul 26  
