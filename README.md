@@ -24,3 +24,4 @@
 4.1 Implement a max stack - Jul 24  
 4.2 Determine whether brackets are balanced - Jul 25  
 4.3 Compute maximum of k-length subarrays - Jul 26  
+4.4 Reconstruct array using +/- signs - Jul 27  
