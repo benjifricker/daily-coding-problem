@@ -29,4 +29,7 @@
 #### 5. Hash Tables
 5.1 Implement an LRU cache - Jul 28  
 5.2 Cut brick wall - Jul 29  
-5.3 Implement a sparse array - Jul 30  
+5.3 Implement a sparse array - Jul 30
+
+#### 6. Trees
+6.1 Count unival trees - Jul 31  
