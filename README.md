@@ -34,3 +34,4 @@
 #### 6. Trees
 6.1 Count unival trees - Jul 31  
 6.2 Reconstruct tree from pre-order and in-order traversals - Aug 1  
+6.3 Evaluate arithmetic tree - Aug 2  
