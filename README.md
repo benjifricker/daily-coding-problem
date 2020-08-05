@@ -39,3 +39,4 @@
 
 #### 7. Binary Search Trees
 7.1 Find floor and ceiling - Aug 4  
+7.2 Convert sorted array to BST - Aug 5  
