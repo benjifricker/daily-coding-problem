@@ -35,4 +35,7 @@
 6.1 Count unival trees - Jul 31  
 6.2 Reconstruct tree from pre-order and in-order traversals - Aug 1  
 6.3 Evaluate arithmetic tree - Aug 2  
-6.4 Get tree level with minimum sum - Aug 3  
+6.4 Get tree level with minimum sum - Aug 3
+
+#### 7. Binary Search Trees
+7.1 Find floor and ceiling - Aug 4  
