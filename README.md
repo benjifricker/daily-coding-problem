@@ -41,3 +41,6 @@
 7.1 Find floor and ceiling - Aug 4  
 7.2 Convert sorted array to BST - Aug 5  
 7.3 Construct all BSTs with n nodes - Aug 6  
+
+#### 8. Tries
+8.1 Implement autocomplete system - Aug 7  
