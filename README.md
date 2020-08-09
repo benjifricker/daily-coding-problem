@@ -44,3 +44,4 @@
 
 #### 8. Tries
 8.1 Implement autocomplete system - Aug 7  
+8.2 Create PrefixMapSum class - Aug 8  
