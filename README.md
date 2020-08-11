@@ -46,3 +46,6 @@
 8.1 Implement autocomplete system - Aug 7  
 8.2 Create PrefixMapSum class - Aug 8  
 8.3 Find Maximum XOR of element pairs - Aug 9  
+
+#### 9. Tries
+9.1 Compute the running median - Aug 11  
