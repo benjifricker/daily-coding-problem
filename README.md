@@ -50,3 +50,4 @@
 #### 9. Tries
 9.1 Compute the running median - Aug 11  
 9.2 Find most similar websites - Aug 12  
+9.3. Generate regular numbers - Aug 14  
